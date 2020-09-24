@@ -1,2 +1,2 @@
-# CS1412
+# cs1412
 Spring 2020 Programming Principles II
